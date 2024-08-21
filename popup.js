@@ -5,7 +5,7 @@
 
 
 
-document.addEventListener('DOMContentLoaded',()=>{
+
     const imagecontainer= document.getElementById('images');
     
 
@@ -42,5 +42,5 @@ document.addEventListener('DOMContentLoaded',()=>{
             });
 
     })
-})
+
 
