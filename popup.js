@@ -3,7 +3,7 @@
 
 
 
-
+console.log("hi from popup.js");
 
 
     const imagecontainer= document.getElementById('images');
@@ -26,7 +26,7 @@
         const selectedimages=result.selectedimages || [];
             selectedimages.forEach((src) => {
                
-                console.log(src);
+               
                 if(src!=null){
 
 
